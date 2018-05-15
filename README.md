@@ -3,4 +3,6 @@ This Key logger is designed fully for educational purposes and to show you how a
 
 To compile it you need to enable C++11 standards and -mwindows flag
 
-The Keylogger is able to capture all the keystrokes using system hooks. In addition to this, it is also able to put them into a file, encrypt the file and send the file via mail based on a timer.
+The Keylogger is able to capture all the keystrokes using system hooks. In addition to this, it is also able to put them into a file, encrypt the file and send the file via mail based on a timer...
+
+And on the first start the program will move itself to the windows startup folder and then every time the computer will start the program will also start...
