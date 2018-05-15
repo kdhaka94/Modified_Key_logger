@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1526389674 source:c:\users\kuldeep dhaka\documents\keylogger\keylog\main.cpp
+	<iostream>
+	<windows.h>
+	<dirent.h>
+	<cstddef>
+	"KeybHook.h"
+
+1520504831 c:\users\kuldeep dhaka\documents\keylogger\keylog\keybhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+	<lmcons.h>
+
+1475123190 c:\users\kuldeep dhaka\documents\keylogger\keylog\keyconstants.h
+	<map>
+	<string>
+
+1475123190 c:\users\kuldeep dhaka\documents\keylogger\keylog\timer.h
+	<thread>
+	<chrono>
+
+1520186647 c:\users\kuldeep dhaka\documents\keylogger\keylog\sendmail.h
+	<fstream>
+	<vector>
+	"windows.h"
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1475123190 c:\users\kuldeep dhaka\documents\keylogger\keylog\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"Helper.h"
+	"Base64.h"
+
+1475123190 c:\users\kuldeep dhaka\documents\keylogger\keylog\helper.h
+	<ctime>
+	<string>
+	<sstream>
+
+1475123190 c:\users\kuldeep dhaka\documents\keylogger\keylog\base64.h
+	<vector>
+	<string>
+
